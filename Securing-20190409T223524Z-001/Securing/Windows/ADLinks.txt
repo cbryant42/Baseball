@@ -1,0 +1,5 @@
+Active Directory Best Practices: 
+---------------------------------
+https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
+
+

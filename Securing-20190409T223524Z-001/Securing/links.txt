@@ -1,0 +1,33 @@
+Overall: 
+---------
+https://github.com/lchack/CCDC
+
+
+Windows:
+---------
+https://github.com/TeraByteIT/Windows-Hardening
+https://github.com/PaulSec/awesome-windows-domain-hardening
+https://github.com/beerisgood/Windows10_Hardening
+https://github.com/fullenw1/EnforceLocalAdmins
+https://github.com/infosecn1nja/AD-Attack-Defense/
+
+Windows PrivEsc:
+---------------- 
+https://github.com/netbiosX/Checklists/blob/master/Windows-Privilege-Escalation.md
+
+
+Windows Webapp:
+---------------
+https://github.com/d-saravanan/secure.netapps
+https://github.com/DragonDefenders/Windows-Server-2012-Hardening
+
+
+Linux: 
+-------
+https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+https://github.com/guidugli/Selinux-Policies
+
+
+nginx: 
+--------
+https://github.com/michyweb/nginx-security-conf
